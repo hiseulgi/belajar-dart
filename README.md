@@ -1,3 +1,3 @@
 # belajar-dart
 
-Repositori belajar Dart by sugab.
+Repositori belajar Dart by sugab 🥰.
